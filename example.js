@@ -1,8 +1,7 @@
 const packageRepo = require('./')
 
 packageRepo('./some/package.json')
-// or
-packageRepo(somePackage)
+// or packageRepo(somePackage)
 
 /*
 {
